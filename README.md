@@ -2,7 +2,7 @@
 
 
 ## Description:
-###### Passport JS SQL Database Boilerplate using Angular front-end, Express Server and is a full stack application.
+###### Passport JS SQL Database Boilerplate using Angular front-end, Express Server and is a full stack application. Boilerplate does not include ``client.js`` to ``service.service.js`` authentication checking when switching between views. Authentication requests are made in controllers.
 
 
 ## Technologies Used
